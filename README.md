@@ -1,3 +1,3 @@
 # Flyer1
 Graphic Design
- https://saog-55.github.io/Flyer1/.
+https://saog-55.github.io/Flyer1/.
